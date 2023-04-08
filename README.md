@@ -60,3 +60,4 @@ For a detailed explanation of how things work, check out [Alpine](https://alpine
 - add favicon.ico
 - modify logo
 - checko alpine source code not alpine-starter
+- maybe your can learn how to learn github latest package automatically
