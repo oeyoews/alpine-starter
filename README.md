@@ -68,4 +68,5 @@ For a detailed explanation of how things work, check out [Alpine](https://alpine
 - [ ] set default png and set default excerpt
 - [ ] set default layout is article, even not have layout field
 - [ ] this font size too large
-- [ ] learn unocss
+- [ ] learn unocss usage
+- [ ] support nest for back
