@@ -1,5 +1,5 @@
 ---
-cover: /articles/get-started.webp
+cover: /get-started.webp
 date: 2023-04-04T00:00:00.000Z
 title: Notes Tools
 description: notes tools

@@ -3,7 +3,7 @@ title: Personal Resume
 author: oeyoews
 description: "Personal Resume \U0001F44B"
 date: 2023-04-08
-cover: /articles/get-started.webp
+cover: /get-started.webp
 layout: article
 ---
 

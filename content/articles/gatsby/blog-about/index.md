@@ -2,7 +2,7 @@
 date: 2023-04-08
 title: Blog About
 description: 博客基本要求及发布流程
-cover: /articles/get-started.webp
+cover: /get-started.webp
 layout: article
 ---
 
