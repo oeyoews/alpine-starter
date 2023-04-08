@@ -1,3 +1,10 @@
 export default defineNuxtConfig({
-  extends: '@nuxt-themes/alpine'
-})
+  css: ["~/src/tailwind.css"],
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
+  extends: "@nuxt-themes/alpine",
+});
