@@ -6,18 +6,6 @@ description: notes tools
 layout: article
 ---
 
-## TOC
-
-```toc
-# This code block gets replaced with the TOC
-exclude: "TOC"
-tight: false
-ordered: false
-from-heading: 2
-to-heading: 6
-class-name: "table-of-contents"
-```
-
 ## General :rocket:
 
 - **Tiddlywiki** as notes
