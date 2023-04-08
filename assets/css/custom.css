@@ -16,3 +16,11 @@ article .title {
 .left :is(header .overlay):is(header .overlay) {
   padding: var(--space-4) !important;
 }
+
+article time {
+  font-style: italic !important;
+  font-size: 12px !important;
+  text-align: center !important;
+  display: flex;
+  justify-content: center;
+}
