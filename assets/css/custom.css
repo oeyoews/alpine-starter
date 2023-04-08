@@ -1,0 +1,18 @@
+@media (min-width: 640px) {
+  article {
+    padding: 0 !important;
+  }
+}
+
+header {
+  --header-padding: var(--space-8) !important;
+}
+
+article .title {
+  text-align: center;
+  font-size: var(--text-2xl-fontSize) !important;
+}
+
+.left :is(header .overlay):is(header .overlay) {
+  padding: var(--space-4) !important;
+}
