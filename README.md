@@ -63,3 +63,4 @@ For a detailed explanation of how things work, check out [Alpine](https://alpine
 - maybe your can learn how to learn github latest package automatically
 - learn about strapi [docs](https://getstrapi.cn/developer-docs/latest/developer-resources/global-strapi/api-reference.html#strapi-router)
 - add feed
+- set default png and set default excerpt
