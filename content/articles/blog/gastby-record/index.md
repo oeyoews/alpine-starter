@@ -17,6 +17,11 @@ description: record gastby for blog
 - 可以同时使用多套主题，blog, notes, 两个路由使用两个主题
 - support tailwindcss easily
 - dont use md and mdx mixed (at present not familiar)
+- customize your layout
+
+## 缺点
+
+* local dev is slow and make termial slow and not control
 
 ## Tips
 
