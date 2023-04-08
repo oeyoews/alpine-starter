@@ -7,3 +7,4 @@ description:
 * better exprecise
 
 * not support custom layout
+* SSR, SSG, CSR, ISR, ESR, SWR
