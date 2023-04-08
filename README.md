@@ -65,3 +65,4 @@ For a detailed explanation of how things work, check out [Alpine](https://alpine
 - add feed
 - set default png and set default excerpt
 - set default layout is article, even not have layout field
+- this font size too large
