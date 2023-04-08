@@ -1,5 +1,5 @@
 ---
-cover: /get-started.webp
+cover: /default.webp
 title: Gastby Record
 date: 2023-04-04T00:00:00.000Z
 description: record gastby for blog
