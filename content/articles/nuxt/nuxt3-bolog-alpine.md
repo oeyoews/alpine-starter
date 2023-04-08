@@ -3,6 +3,7 @@ date: 2023-04-08
 title: Alpine With Nuxt3
 description: Nuxt3 with alpine starter
 cover: /articles/default.webp
+layout: article
 ---
 
 * better exprecise
