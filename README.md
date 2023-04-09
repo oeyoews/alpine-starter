@@ -59,7 +59,7 @@ For a detailed explanation of how things work, check out [Alpine](https://alpine
 ## TODO
 
 - [ ] change lang to en
-- [ ] add favicon.ico
+- [x] add favicon.ico
 - [ ] modify logo
 - [ ] checko alpine source code not alpine-starter
 - [ ] maybe your can learn how to learn github latest package automatically

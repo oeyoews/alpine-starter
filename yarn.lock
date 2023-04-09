@@ -517,8 +517,8 @@
     fastq "^1.6.0"
 
 "@nuxt-themes/alpine@github:oeyoews/alpine":
-  version "1.5.0-2"
-  resolved "https://codeload.github.com/oeyoews/alpine/tar.gz/62e945c27ea96dcacd1705153015153df8df4201"
+  version "1.5.0-3"
+  resolved "https://codeload.github.com/oeyoews/alpine/tar.gz/11f556913ced14aa13ce9252e37f097d71934a88"
   dependencies:
     "@nuxt-themes/elements" "^0.9.3"
     "@nuxt-themes/tokens" "^1.9.0"
