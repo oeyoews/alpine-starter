@@ -59,14 +59,14 @@ For a detailed explanation of how things work, check out [Alpine](https://alpine
 ## TODO
 
 - [ ] change lang to en
-- [x] add favicon.ico
 - [ ] modify logo
-- [ ] checko alpine source code not alpine-starter
-- [ ] maybe your can learn how to learn github latest package automatically
 - [ ] learn about strapi [docs](https://getstrapi.cn/developer-docs/latest/developer-resources/global-strapi/api-reference.html#strapi-router)
-- [ ] add feed
+- [ ] add nuxt feed
 - [ ] set default excerpt
-- [x] set default layout is article, even not have layout field
-- [ ] this font size too large
 - [ ] learn unocss usage
-- [ ] support nest for back
+- [ ] support nest for back button
+- [x] set default layout is article, even not have layout field
+- [x] this font size too large
+- [x] add favicon.ico
+- [x] checko alpine source code not alpine-starter
+- [x] maybe your can learn how to learn github latest package automatically
