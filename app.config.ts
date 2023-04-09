@@ -9,6 +9,9 @@ export default defineAppConfig({
       height: 300,
     },
     header: {
+      htmlAttrs: {
+        lang: "en",
+      },
       position: "left", // possible value are : | 'left' | 'center' | 'right'
       logo: {
         path: "/logo.svg", // path of the logo
