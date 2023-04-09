@@ -19,3 +19,7 @@ layout: article
 ```bash [package.json]
 yarn add alpine-starter@github:oeyoews/alpine-starter # install personal package
 ```
+
+## Learn MDC(not MDX)
+
+* https://content.nuxtjs.org/guide/writing/mdc/
