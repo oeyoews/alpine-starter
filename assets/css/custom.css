@@ -17,7 +17,7 @@ article .title {
   padding: var(--space-4) !important;
 }
 
-article time {
+.title + time {
   font-style: italic !important;
   font-size: 12px !important;
   text-align: center !important;
