@@ -65,6 +65,7 @@ For a detailed explanation of how things work, check out [Alpine](https://alpine
 - [ ] set default excerpt
 - [ ] learn unocss usage
 - [ ] support nest for back button
+- [ ] support pwa(manifest)
 - [x] set default layout is article, even not have layout field
 - [x] this font size too large
 - [x] add favicon.ico
