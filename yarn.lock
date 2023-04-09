@@ -518,7 +518,7 @@
 
 "@nuxt-themes/alpine@github:oeyoews/alpine":
   version "1.5.0-3"
-  resolved "https://codeload.github.com/oeyoews/alpine/tar.gz/c8d9481ae1250b775b4ab8919ed2c0847eb0b654"
+  resolved "https://codeload.github.com/oeyoews/alpine/tar.gz/f3e64ac92efacce9420ede1234e89ee558361335"
   dependencies:
     "@nuxt-themes/elements" "^0.9.3"
     "@nuxt-themes/tokens" "^1.9.0"
