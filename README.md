@@ -65,8 +65,8 @@ For a detailed explanation of how things work, check out [Alpine](https://alpine
 - [ ] maybe your can learn how to learn github latest package automatically
 - [ ] learn about strapi [docs](https://getstrapi.cn/developer-docs/latest/developer-resources/global-strapi/api-reference.html#strapi-router)
 - [ ] add feed
-- [ ] set default png and set default excerpt
-- [ ] set default layout is article, even not have layout field
+- [ ] set default excerpt
+- [x] set default layout is article, even not have layout field
 - [ ] this font size too large
 - [ ] learn unocss usage
 - [ ] support nest for back
