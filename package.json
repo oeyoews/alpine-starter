@@ -9,7 +9,7 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
-    "@nuxt-themes/alpine": "^1.5.0",
+    "@nuxt-themes/alpine": "github:oeyoews/alpine",
     "nuxt": "^3.3.1",
     "prettier": "^2.8.7",
     "prettier-plugin-tailwindcss": "^0.2.7"
