@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@nuxt-themes/alpine": "github:oeyoews/alpine",
-    "nuxt": "^3.3.1",
+    "nuxt": "^3.3.3",
     "prettier": "^2.8.7",
     "prettier-plugin-tailwindcss": "^0.2.7"
   },
